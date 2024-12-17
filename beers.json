@@ -4,139 +4,139 @@
     "name": "Lager Beer",
     "description": "A crisp, clean, and well-balanced beer with a light malt flavor.",
     "price": 5.99,
-    "image": "assets/images/beer1.jpg"
+    "image": "assets/images/beer1.png"
   },
   {
     "id": 2,
     "name": "IPA Beer",
     "description": "A hoppy beer with citrus and pine flavors, perfect for hop lovers.",
     "price": 6.99,
-    "image": "assets/images/beer2.jpg"
+    "image": "assets/images/beer2.png"
   },
   {
     "id": 3,
     "name": "Stout Beer",
     "description": "A rich and dark beer with roasted malt flavors and a smooth finish.",
     "price": 7.49,
-    "image": "assets/images/beer3.jpg"
+    "image": "assets/images/beer3.png"
   },
   {
     "id": 4,
     "name": "Pilsner Beer",
     "description": "A crisp, refreshing beer with a slight bitterness and a clean finish.",
     "price": 4.99,
-    "image": "assets/images/beer4.jpg"
+    "image": "assets/images/beer4.png"
   },
   {
     "id": 5,
     "name": "Wheat Beer",
     "description": "A light and cloudy beer with a fruity, spicy flavor profile.",
     "price": 5.49,
-    "image": "assets/images/beer5.jpg"
+    "image": "assets/images/beer5.png"
   },
   {
     "id": 6,
     "name": "Porter Beer",
     "description": "A dark, malty beer with notes of chocolate and coffee.",
     "price": 6.29,
-    "image": "assets/images/beer6.jpg"
+    "image": "assets/images/beer6.png"
   },
   {
     "id": 7,
     "name": "Saison Beer",
     "description": "A farmhouse ale with a peppery, fruity, and spicy flavor profile.",
     "price": 7.99,
-    "image": "assets/images/beer7.jpg"
+    "image": "assets/images/beer7.png"
   },
   {
     "id": 8,
     "name": "Amber Ale",
     "description": "A balanced beer with a slight malt sweetness and a touch of bitterness.",
     "price": 5.69,
-    "image": "assets/images/beer8.jpg"
+    "image": "assets/images/beer8.png"
   },
   {
     "id": 9,
     "name": "Double IPA",
     "description": "An intensely hoppy beer with a strong bitterness and higher alcohol content.",
     "price": 8.49,
-    "image": "assets/images/beer9.jpg"
+    "image": "assets/images/beer9.png"
   },
   {
     "id": 10,
     "name": "Pale Ale",
     "description": "A well-balanced beer with a moderate hop bitterness and a light malt backbone.",
     "price": 6.19,
-    "image": "assets/images/beer10.jpg"
+    "image": "assets/images/beer10.png"
   },
   {
     "id": 11,
     "name": "Blonde Ale",
     "description": "A light, smooth beer with a slight malty sweetness and a clean finish.",
     "price": 5.29,
-    "image": "assets/images/beer11.jpg"
+    "image": "assets/images/beer11.png"
   },
   {
     "id": 12,
     "name": "Belgian Dubbel",
     "description": "A rich, malty beer with dark fruit flavors and a smooth, warming finish.",
     "price": 7.79,
-    "image": "assets/images/beer12.jpg"
+    "image": "assets/images/beer12.png"
   },
   {
     "id": 13,
     "name": "Barleywine",
     "description": "A strong beer with a rich malt flavor and a noticeable hop bitterness.",
     "price": 8.99,
-    "image": "assets/images/beer13.jpg"
+    "image": "assets/images/beer13.png"
   },
   {
     "id": 14,
     "name": "India Pale Lager",
     "description": "A lager with the hoppy bitterness of an IPA, offering a unique twist on both styles.",
     "price": 6.79,
-    "image": "assets/images/beer14.jpg"
+    "image": "assets/images/beer14.png"
   },
   {
     "id": 15,
     "name": "Bitter Beer",
     "description": "A highly bitter beer with floral and citrus notes.",
     "price": 5.99,
-    "image": "assets/images/beer15.jpg"
+    "image": "assets/images/beer15.png"
   },
   {
     "id": 16,
     "name": "Milk Stout",
     "description": "A creamy stout with milk sugar added for a sweet and smooth finish.",
     "price": 6.49,
-    "image": "assets/images/beer16.jpg"
+    "image": "assets/images/beer16.png"
   },
   {
     "id": 17,
     "name": "Lambic Beer",
     "description": "A sour beer with fruity and earthy flavors, fermented with wild yeast.",
     "price": 7.59,
-    "image": "assets/images/beer17.jpg"
+    "image": "assets/images/beer17.png"
   },
   {
     "id": 18,
     "name": "Saison Dupont",
     "description": "A classic saison with a peppery and fruity aroma, a dry finish, and a complex taste.",
     "price": 9.29,
-    "image": "assets/images/beer18.jpg"
+    "image": "assets/images/beer18.png"
   },
   {
     "id": 19,
     "name": "American Pale Ale",
     "description": "A crisp, hop-forward beer with tropical fruit and citrus flavors.",
     "price": 6.69,
-    "image": "assets/images/beer19.jpg"
+    "image": "assets/images/beer19.png"
   },
   {
     "id": 20,
     "name": "Hefeweizen",
     "description": "A German wheat beer with banana and clove flavors, cloudy appearance.",
     "price": 5.89,
-    "image": "assets/images/beer20.jpg"
+    "image": "assets/images/beer20.png"
   }
 ]
